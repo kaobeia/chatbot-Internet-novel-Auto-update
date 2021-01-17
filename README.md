@@ -11,4 +11,7 @@ https://mp.weixin.qq.com/debug/cgi-bin/sandbox?t=sandbox/login
 ## 架構圖，核心組件 ##  
 爬蟲程序：定時循環爬取小說源站，監控小說更新。  
 微信token服務器：統一獲取並保存微信公眾號的access token，供微信公眾號程序使用。  
-微信公眾號服務程序：接收爬蟲程序的更新章節推送，並將更新通過微信消息發送給用戶。  
+微信公眾號服務程序：接收爬蟲程序的更新章節推送，並將更新通過微信消息發送給用戶。
+
+![image](https://github.com/kaobeia/WS/blob/main/WS%E6%9C%9F%E6%9C%AB/demo.gif)
+![image](https://github.com/kaobeia/WS/blob/main/WS%E6%9C%9F%E6%9C%AB/demo.gif)
