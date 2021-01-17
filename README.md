@@ -13,5 +13,5 @@ https://mp.weixin.qq.com/debug/cgi-bin/sandbox?t=sandbox/login
 微信token服務器：統一獲取並保存微信公眾號的access token，供微信公眾號程序使用。  
 微信公眾號服務程序：接收爬蟲程序的更新章節推送，並將更新通過微信消息發送給用戶。
 
-![image](https://github.com/kaobeia/chatbot-Internet-novel-Auto-update)
+![image](https://github.com/kaobeia/chatbot-Internet-novel-Auto-update/blob/main/frame1.png)
 ![image](https://github.com/kaobeia/chatbot-Internet-novel-Auto-update/blob/main/frame2.png)
