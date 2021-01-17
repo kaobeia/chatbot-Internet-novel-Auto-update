@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # @author : yasin
-# @time   : 18-12-30 下午2:59
+# @time   : 20-12-30 下午2:59
 # @File   : test.py
 
 import requests
@@ -11,7 +11,7 @@ testPostUrl = 'http://127.0.0.1:12126/api/novelupdate'
 bookInfo = {
     'bookName': '测试书名',
     'latestChapter': '测试章节',
-    'updateTime': '2018年1月1日',
+    'updateTime': '2021年1月1日',
     'latestUrl': 'https://www.shangyexin.com'
 }
 
