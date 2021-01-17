@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # @author : yasin
-# @time   : 12/29/21 8:21 PM
+# @time   : 1/9/21 8:21 PM
 # @File   : config.py
 import logging.config
 logging.config.fileConfig("logger.conf")
